@@ -68,12 +68,6 @@
 
 ---
 
-### 🌟 Activity Graph
-<p align="center">
-  ![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Addyy-07&theme=react-dark&area=true)
-</p>
-
----
 
 ### 🐍 Contribution Snake
 <p align="center">
