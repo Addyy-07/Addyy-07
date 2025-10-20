@@ -73,8 +73,9 @@
 
 ### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/Addyy-07/Addyy-07/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/Addyy-07/Addyy-07/blob/output/snake.svg" alt="snake animation" />
 </p>
+
 
 *(If the snake doesn’t appear, follow [this setup guide](https://github.com/Platane/snk#readme) — it’ll auto-generate once GitHub Actions run.)*
 
