@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-💻 CSE @ NIT Allahabad | Web Developer & Competitive Programmer | DSA Enthusiast | Turning Ideas Into Code
+💻 CSE @ NIT Allahabad | Web Developer & DSA Enthusiast | Competitive Programmer | Turning Ideas Into Code
 </h3>
 
 <p align="center">
@@ -16,9 +16,9 @@
 
 ### 🧠 About Me
 - 🎓 **B.Tech in CSE** at *NIT Allahabad*  
-- 💻 Passionate about **Web Development**, **Data Structures & Algorithms**, and **Competitive Programming**  
-- 🔭 Currently building small but impactful **projects** to improve skills  
-- 🌱 Constantly learning new technologies and problem-solving techniques  
+- 💻 Passionate about **Web Development**, **DSA**, and **Competitive Programming**  
+- 🔭 Currently building impactful **projects** to improve my skills  
+- 🌱 Constantly learning new technologies and solving problems  
 - ⚡ *Turning ideas into logic, and logic into experience.*
 
 ---
@@ -70,7 +70,7 @@
 
 ### 🌟 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Addyy-07&theme=tokyo-night" />
+  ![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Addyy-07&theme=react-dark&area=true)
 </p>
 
 ---
