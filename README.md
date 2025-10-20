@@ -77,7 +77,7 @@
 </p>
 
 
-*(If the snake doesn’t appear, follow [this setup guide](https://github.com/Platane/snk#readme) — it’ll auto-generate once GitHub Actions run.)*
+
 
 ---
 
