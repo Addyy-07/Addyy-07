@@ -1,61 +1,79 @@
-<h1 align="center">Hi 👋, I'm Adnan Ali</h1>
-<h3 align="center">CSE Undergrad @ NIT Allahabad | Web Developer | Competitive Programmer</h3>
+<!-- Profile Header -->
+<h1 align="center">
+  <img src="https://emojis.slackmojis.com/emojis/images/1643514718/39083/wave-hello.gif?1643514718" width="36" /> 
+  Hey there, I'm <b>Adnan Ali</b>!
+</h1>
 
----
-
-### 💫 About Me:
-- 🎓 Pursuing **B.Tech in Computer Science & Engineering** from **NIT Allahabad**  
-- 💻 Passionate about **Web Development**, **DSA**, and **Competitive Programming**  
-- ⚡ Love turning ideas into interactive digital experiences  
-- 🌱 Currently improving my **problem-solving** and exploring **modern web frameworks**  
-
----
-
-### 🌐 Connect with Me:
-<p align="left">
-<a href="https://www.linkedin.com/in/adnan-ali-499504229" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-<a href="https://addyy-07.github.io/Myportfolio/" target="_blank">
-  <img align="center" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Portfolio" height="30" width="40" />
-</a>
-<a href="https://leetcode.com/u/Adna9_ali/" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" alt="LeetCode" height="30" width="40" />
-</a>
-<a href="https://www.codechef.com/users/cosmos_estas" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codechef/codechef-plain.svg" alt="CodeChef" height="30" width="40" />
-</a>
-</p>
-
----
-
-### 💻 Tech Stack:
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,html,css,js,react,nodejs,express,mongodb,git,github" />
-</p>
-
----
-
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Addyy-07&show_icons=true&theme=tokyonight" alt="Adnan's GitHub stats" />
-</p>
+<h3 align="center">🚀 Web Developer | 💻 Competitive Programmer | 🎓 CSE @ NIT Allahabad</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Addyy-07&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=800&color=00FFFF&center=true&vCenter=true&width=550&lines=Full+Stack+Web+Developer;DSA+%26+Competitive+Programming+Enthusiast;Turning+Ideas+Into+Interactive+Experiences;Lifelong+Learner+%26+Tech+Explorer" alt="Typing Animation" />
+</p>
+
+---
+
+### 🧠 About Me
+- 🎓 **B.Tech in CSE** at *NIT Allahabad*  
+- 💻 I love **Web Development**, **Data Structures & Algorithms**, and **Competitive Programming**  
+- 🚀 Constantly learning & exploring new technologies  
+- ⚡ *Code. Create. Conquer.*
+
+---
+
+### 🌐 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/adnan-ali-499504229" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://addyy-07.github.io/Myportfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 💻 Coding Profiles
+<p align="center">
+  <a href="https://leetcode.com/u/Adna9_ali/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <br/>
+  <a href="https://www.codechef.com/users/cosmos_estas" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🧰 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,html,css,js,react,nodejs,express,mongodb,git,github,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Addyy-07&show_icons=true&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Addyy-07&theme=tokyonight" height="180em"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Addyy-07&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Addyy-07&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-### 🚀 Quote I Live By:
-> “Code is like poetry — clean, elegant, and full of meaning.”
+### 🌟 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Addyy-07&theme=tokyo-night" />
+</p>
 
 ---
 
-⭐ **Check out my portfolio:** [addyy-07.github.io/Myportfolio](https://addyy-07.github.io/Myportfolio/)
+### ✨ Quote I Live By
+> “Code is like art — it speaks for those who write it beautifully.”
 
 ---
+
+⭐ **Explore my world:** [addyy-07.github.io/Myportfolio](https://addyy-07.github.io/Myportfolio/)
