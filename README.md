@@ -84,7 +84,7 @@
 ---
 
 ### ✨ Quote I Live By
-> “Code is like art — it speaks for those who write it beautifully.”
+> “You don’t just write code — you breathe logic into existence."
 
 ---
 
